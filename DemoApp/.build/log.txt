@@ -1,0 +1,2 @@
+Pass:
+Generated bundle file /home/user/projects/test/DemoApp/.build/DemoApp/.build/uploadBundle.zip
